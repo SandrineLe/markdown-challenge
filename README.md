@@ -40,4 +40,4 @@ A few years ago I became a grown up...  *[nervous laughing]*
 ### tl;dr
 Adulting is funny. Ha. Ha.
 
-<< [previous](https://www.example.com) || SANDRINE Lê || [next](https://www.example.com) >> 
+<< [previous](https://github.com/Roustamkhaydarov/markdown-challenge/blob/main/README.md) || SANDRINE Lê || [next](https://github.com/tamerlan1995/markdown-challenge1) >> 
