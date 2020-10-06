@@ -2,4 +2,4 @@
 ---
 > Life is a soup and I'm a fork
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![IMG_ID.png](https://raw.githubusercontent.com/SandrineLe/markdown-challenge/master/IMG_ID.png)
