@@ -32,7 +32,7 @@ Q | A
   * Listening to 70s-80s-90s music h24/7j
 
 ## You can always count on me when...
-Need a shoulder to cry on, want to talk about everyday topics, need to rant about bugs in your code, you feel like having a brunch (diner, lunch, ...) buddy or when you just need some help for anything I could help with!
+You need a shoulder to cry on, want to talk about everyday topics, need to rant about bugs in your code, you feel like having a brunch (diner, lunch, ...) buddy or when you just need some help for anything I could help with!
 
 ## A funny story...
 A few years ago I became a grown up...  *[nervous laughing]*
